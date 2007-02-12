@@ -1,5 +1,5 @@
 Summary:	xfce4-taskmanager - simple task manager for Xfce
-Summary(pl.UTF-8):   xfce4-taskmanager - prosty zarządca procesów dla Xfce
+Summary(pl.UTF-8):	xfce4-taskmanager - prosty zarządca procesów dla Xfce
 Name:		xfce4-taskmanager
 Version:	0.3.2
 Release:	1
