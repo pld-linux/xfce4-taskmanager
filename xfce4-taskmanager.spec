@@ -1,5 +1,5 @@
 Summary:	xfce4-taskmanager - simple task manager for Xfce
-Summary(pl):	xfce4-taskmanager - prosty zarz±dca procesów dla Xfce
+Summary(pl.UTF-8):   xfce4-taskmanager - prosty zarzÄ…dca procesÃ³w dla Xfce
 Name:		xfce4-taskmanager
 Version:	0.3.2
 Release:	1
@@ -20,8 +20,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 %description
 xfce4-taskmanager is a simple task manager for Xfce.
 
-%description -l pl
-xfce4-taskmanager jest prostym zarz±dc± procesów dla Xfce.
+%description -l pl.UTF-8
+xfce4-taskmanager jest prostym zarzÄ…dcÄ… procesÃ³w dla Xfce.
 
 %prep
 %setup -q
