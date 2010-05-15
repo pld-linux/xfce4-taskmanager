@@ -9,6 +9,8 @@ Source0:	http://goodies.xfce.org/releases/xfce4-taskmanager/%{name}-%{version}.t
 # Source0-md5:	4ed599faf6b734b2d2e7be16adf0b2d9
 Patch0:		%{name}-desktop.patch
 URL:		http://goodies.xfce.org/projects/applications/xfce4-taskmanager/
+BuildRequires:	gettext-devel
+BuildRequires:	intltool
 BuildRequires:	libxfcegui4-devel >= 4.4.0
 BuildRequires:	pkgconfig
 BuildRequires:	xfce4-dev-tools >= 4.4.0
