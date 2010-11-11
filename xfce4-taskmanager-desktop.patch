@@ -4,7 +4,6 @@
  Terminal=false
  StartupNotify=true
  Type=Application
--Categories=Application;System;Utility;
-\ No newline at end of file
+-Categories=System;Utility;
 +Categories=X-XFCE;System;
 +OnlyShowIn=XFCE;
