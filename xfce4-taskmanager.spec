@@ -13,7 +13,7 @@ URL:		http://goodies.xfce.org/projects/applications/xfce4-taskmanager/
 BuildRequires:	autoconf
 BuildRequires:	gettext-devel
 BuildRequires:	intltool
-BuildRequires:	libxfcegui4-devel >= 4.4.0
+BuildRequires:	libxfce4ui-devel >= 4.4.0
 BuildRequires:	libwnck-devel >= 2.0
 BuildRequires:	pkgconfig
 BuildRequires:	xfce4-dev-tools >= 4.4.0
