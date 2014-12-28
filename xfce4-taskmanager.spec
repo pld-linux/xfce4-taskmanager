@@ -10,7 +10,7 @@ Source0:	http://archive.xfce.org/src/apps/xfce4-taskmanager/1.0/%{name}-%{versio
 Patch0:		%{name}-desktop.patch
 URL:		http://goodies.xfce.org/projects/applications/xfce4-taskmanager/
 BuildRequires:	autoconf
-BuildRequires:	gettext-devel
+BuildRequires:	gettext-tools
 BuildRequires:	intltool
 BuildRequires:	libgksu-devel >= 2.0
 BuildRequires:	libxfce4ui-devel >= 4.4.0
