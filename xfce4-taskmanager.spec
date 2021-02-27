@@ -1,12 +1,12 @@
 Summary:	xfce4-taskmanager - simple task manager for Xfce
 Summary(pl.UTF-8):	xfce4-taskmanager - prosty zarządca procesów dla Xfce
 Name:		xfce4-taskmanager
-Version:	1.5.1
+Version:	1.5.2
 Release:	1
 License:	GPL v2
 Group:		X11/Applications
 Source0:	http://archive.xfce.org/src/apps/xfce4-taskmanager/1.5/%{name}-%{version}.tar.bz2
-# Source0-md5:	43ba402208c213978757f18bca274ace
+# Source0-md5:	17b3456a9990cc5da6fe859de0f4c62a
 Patch0:		%{name}-desktop.patch
 URL:		http://goodies.xfce.org/projects/applications/xfce4-taskmanager/
 BuildRequires:	autoconf
