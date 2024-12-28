@@ -1,9 +1,10 @@
---- xfce4-taskmanager-0.4.1/xfce4-taskmanager.desktop.in~	2008-06-14 22:02:46.000000000 +0200
-+++ xfce4-taskmanager-0.4.1/xfce4-taskmanager.desktop.in	2010-05-11 12:44:39.428487335 +0200
-@@ -8,4 +8,5 @@
+--- xfce4-taskmanager-1.5.8/xfce4-taskmanager.desktop.in~	2024-10-14 17:09:09.000000000 +0000
++++ xfce4-taskmanager-1.5.8/xfce4-taskmanager.desktop.in	2024-12-28 00:34:41.196255826 +0000
+@@ -7,5 +7,6 @@
  Terminal=false
  StartupNotify=true
  Type=Application
 -Categories=System;Utility;
 +Categories=X-XFCE;System;
 +OnlyShowIn=XFCE;
+ Keywords=monitor;resources;system;task;performance;
